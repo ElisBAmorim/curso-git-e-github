@@ -1,5 +1,11 @@
 ## Notas de aula referentes ao módulo 2 do curso git e github da WoMakerCode
 
+## para conectar seu repositorio com ambiente local
+*Crie um repositório em seu GitHub*
+*depois, abra o seu terminal de comando e adicione a origem remota e conecte seu projeto
+local com o GitHub*
+
+
 ## git status
 *é possivel verificar o status dos arquivo e pastas dntro do nosso repositorio*
 
