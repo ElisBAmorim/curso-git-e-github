@@ -7,4 +7,7 @@
 *é utilizado para adicionar todos os arquivo para a esteira de commit*
 
 ## git add [ caminho do arquivo]
-*é utilizado para um arquivo especifico que está no caminho*
+*prepar os arquivo par ao commit, neste caso vc pode escolher qual arquivo especifico que irá utilizar passando seu caminho*
+
+## git commit -m "descrição"
+*é utilizado para gravar as alterações atuais do index *
