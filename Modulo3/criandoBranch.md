@@ -16,3 +16,6 @@ para mudar de branc basta utilizar o comando. Apos mudar de branch o conteudo da
 ## git checkout "nome da branch"
 
 é possivel add novas branch pelo proprio github e excluir tambem. 
+
+## git merge (nome da branch)
+*assim é possivel "unir" alterações criadas em outras branch para branch que desejar*
